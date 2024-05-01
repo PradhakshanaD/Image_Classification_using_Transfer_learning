@@ -1,6 +1,6 @@
 # Image Classification Using Transfer Learning 
 
-This project aims to develop an image classification model using transfer learning techniques with TensorFlow and Keras. Transfer learning involves leveraging pre-trained neural network models and fine-tuning them to suit specific tasks, reducing the need for training from scratch and improving efficiency.
+This project aims to develop an image classification model using transfer learning techniques with TensorFlow and Keras. Transfer learning involves leveraging pre-trained neural network models and fine-tuning them to suit specific tasks, reducing the need for training from scratch and improving efficiency. Here's the link to the dataset --> [Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 ## Key Features:
 
