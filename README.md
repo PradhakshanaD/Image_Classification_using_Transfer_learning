@@ -22,4 +22,5 @@ Evaluation metrics included loss and accuracy computed during model training and
 ### Predictive System: 
 The trained model was integrated into a predictive system capable of classifying input images as either cats or dogs with high accuracy.
 
+
 Special thanks to Siddharthan for providing me with the resources and knowledge that facilitated the development of this project.
